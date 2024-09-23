@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: He / Him
-- ⚡ Fun fact: Just finished my first Half-Marathon 
+- ⚡ Fun fact: Just finished my first Half-Marathon in 1 Hour and 46 Minutes
 
 <!---
 alsamekh/alsamekh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
